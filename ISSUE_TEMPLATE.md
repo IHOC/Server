@@ -4,9 +4,9 @@ your bug not being addressed):
 
 http://gist.github.com is the prefered site for all reports, logs, and lists.
 
-TeamIHOC Server issue occured on (Identified by modpack installed ie. All The Mods):
+TeamIHOC Server issue occurred on (Identified by modpack installed ie. All The Mods):
 
-Narative description of issue or crash:
+Narrative description of issue or crash:
 
 Steps to reproduce the issue or crash:
 
