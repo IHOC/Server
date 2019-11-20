@@ -12,6 +12,8 @@ Steps to reproduce the issue or crash:
 
 Link to crash report (posted on either http://gist.github.com or http://www.pastebin.com):
 
+Link to latest.log (posted on either http://gist.github.com or http://www.pastebin.com):
+
 OS of Client computer:
 
 Version of JAVA on Client:
