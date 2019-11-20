@@ -4,15 +4,13 @@ your bug not being addressed):
 
 http://gist.github.com is the prefered site for all reports, logs, and lists.
 
-TeamIHOC Server issue occurred on (Identified by modpack installed ie. All The Mods):
+TeamIHOC Server issue occurred on (Identified by modpack installed ie. RAD, LITV):
 
 Narrative description of issue or crash:
 
 Steps to reproduce the issue or crash:
 
 Link to crash report (posted on either http://gist.github.com or http://www.pastebin.com):
-
-Link to console logs (posted on http://gist.github.com):
 
 OS of Client computer:
 
