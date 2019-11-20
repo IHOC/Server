@@ -20,6 +20,8 @@ Version of JAVA on Client:
 
 Version of Minecraft:
 
+Version of the Modpack:
+
 Version of Forge:
 
 List of ALL mods installed (posted to either http://www.pastebin.com or http://gist.github.com):
